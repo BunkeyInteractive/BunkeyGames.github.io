@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![_config.yml]({{ site.baseurl }}/images/Guys.png)
 
-### More Information
+### More Info
 
-A place to include any other types of information that you'd like to include about yourself. 
+Collin: I've been making games for a couple years now. I program. I art. I misc. 
 
-### Contact me
+Jayce: I make music. Sometimes.
 
-[email@domain.com](mailto:email@domain.com)
+### Contact Us
+
+[bunkeyinteractive@gmail.com](mailto:bunkeyinteractive@gmail.com)
